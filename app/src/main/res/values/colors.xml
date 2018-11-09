@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c5c5c5</color>
+    <color name="colorPrimaryDark">#c5c5c5</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="pro">#334753</color>
+    <color name="grad">#F2994A</color>
+
+
+</resources>
